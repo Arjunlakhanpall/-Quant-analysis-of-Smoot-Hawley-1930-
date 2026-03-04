@@ -320,9 +320,10 @@ See **`docs/data_sources.md`** for details and a preparation checklist (frequenc
 
 ## License & Contact
 
-- **License:** Use and adapt as needed for portfolio and academic work; cite data sources when using real data.
-- **Contact:** Add your name, email, or GitHub profile here if you wish.
+- **License:**  cite data sources when using real data.
+- **Contact:** Email- arjun.lakhanpal.in@gmail.com/lakhanpxl.arjun@gmail.com .
 
 ---
 
 *End of README — project documentation A–Z.*
+
